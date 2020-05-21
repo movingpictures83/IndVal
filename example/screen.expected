@@ -1,0 +1,114 @@
+***********************************************************************************
+*                                                                                 *
+*  PPPPPPPPPPPP    L               U           U   M           M         A        *
+*  P           P   L               U           U   MM         MM        A A       *
+*  P           P   L               U           U   M M       M M       A   A      *
+*  P           P   L               U           U   M  M     M  M      A     A     *
+*  P           P   L               U           U   M   M   M   M     A       A    *
+*  PPPPPPPPPPPP    L               U           U   M    M M    M    A         A   *
+*  P               L               U           U   M     M     M   AAAAAAAAAAAAA  *
+*  P               L               U           U   M           M   A           A  *
+*  P               L               U           U   M           M   A           A  *
+*  P               LLLLLLLLLLLLL    UUUUUUUUUUU    M           M   A           A  *
+*                                                                                 *
+*            [Plu]gin-based [M]icrobiome [A]nalysis (formerly MiAMi)              *
+* (C) 2016, 2018 Bioinformatics Research Group, Florida International University  *
+*    Under MIT License From Open Source Initiative (OSI), All Rights Reserved.    *
+*                                                                                 *
+*    Any professionally published work using PluMA should cite the following:     *
+*                        T. Cickovski and G. Narasimhan.                          *
+*                Constructing Lightweight and Flexible Pipelines                  *
+*                 Using Plugin-Based Microbiome Analysis (PluMA)                  *
+*                     Bioinformatics 34(17):2881-2888, 2018                       *
+*                                                                                 *
+***********************************************************************************
+[PluMA] Running Plugin: IndVal
+       cluster indicator_value probability
+arttri       1          0.4773       0.001
+atrcan       1          0.4483       0.001
+oryhym       1          0.2912       0.001
+sithys       1          0.2696       0.004
+sphcoc       1          0.2496       0.001
+eurlan       1          0.2069       0.001
+ericor       1          0.2069       0.001
+cirneo       1          0.1724       0.001
+crycon       1          0.1590       0.004
+berfre       1          0.1506       0.004
+molpar       1          0.1379       0.008
+oenbra       1          0.1065       0.016
+agrcri       1          0.1034       0.026
+elysal       1          0.1012       0.038
+cermon       2          0.6305       0.001
+quegam       2          0.3299       0.001
+sherot       2          0.1734       0.003
+macgri       2          0.1663       0.011
+rhutri       2          0.1250       0.009
+oencae       2          0.1230       0.015
+artarb       3          0.6708       0.001
+sticom       3          0.5923       0.001
+chrvis       3          0.5168       0.001
+koenit       3          0.4541       0.001
+leppun       3          0.4151       0.001
+oenlav       3          0.3845       0.001
+agogla       3          0.3019       0.001
+poafen       3          0.2984       0.002
+tetcan       3          0.2877       0.001
+erirac       3          0.2708       0.001
+artfri       3          0.2642       0.002
+linlew       3          0.2501       0.002
+caschr       3          0.2336       0.001
+pencom       3          0.2336       0.003
+broano       3          0.2075       0.002
+stipin       3          0.2075       0.001
+calnut       3          0.1985       0.005
+asthum       3          0.1887       0.003
+erifla       3          0.1887       0.002
+eriumb       3          0.1887       0.001
+corkin       3          0.1622       0.008
+bougra       3          0.1595       0.017
+muhmon       3          0.1509       0.008
+pencae       3          0.1398       0.011
+junbal       3          0.1321       0.009
+poanev       3          0.1321       0.012
+lesint       3          0.1184       0.046
+poapra       3          0.1132       0.015
+lupser       3          0.1132       0.022
+chrpar       3          0.1008       0.037
+astken       3          0.0943       0.036
+compal       3          0.0943       0.028
+lyggra       3          0.0943       0.031
+oencor       3          0.0943       0.021
+phllon       3          0.0943       0.021
+taroff       3          0.0943       0.027
+ceamar       4          0.3643       0.001
+carrss       4          0.2853       0.008
+arcpat       4          0.2797       0.001
+purtri       4          0.2161       0.015
+euplur       4          0.2072       0.004
+astcon       4          0.1530       0.014
+swerad       4          0.1290       0.045
+steten       4          0.1213       0.011
+astmeg       4          0.0951       0.047
+juncom       5          0.4923       0.001
+symore       5          0.4199       0.001
+pacmyr       5          0.4139       0.001
+berrep       5          0.4115       0.001
+astmis       5          0.4008       0.001
+ribcer       5          0.3863       0.001
+lotuta       5          0.2191       0.003
+senmul       5          0.2082       0.027
+achmil       5          0.1462       0.036
+gilcon       5          0.1160       0.029
+
+Sum of probabilities                 =  38.142 
+
+Sum of Indicator Values              =  22.57 
+
+Sum of Significant Indicator Values  =  17.94 
+
+Number of Significant Indicators     =  75 
+
+Significant Indicator Distribution
+
+ 1  2  3  4  5 
+14  6 36  9 10 
