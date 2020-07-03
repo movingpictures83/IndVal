@@ -2,7 +2,8 @@
 # Language: R
 # Input: prefix
 # Output: none (screen only) 
-# Tested with: PluMA 1.0, R 3.2.5
+# Tested with: PluMA 1.1, R 4.0.0
+# Dependency: labdsv_2.0.1
 
 PluMA plugin to perform indicator species analysis (Roberts, 2007).
 
